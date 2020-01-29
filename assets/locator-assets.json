@@ -1,0 +1,44 @@
+{
+    "1.5.0": {
+        "Saber": "sharedassets15.assets",
+        "Note": "sharedassets16.assets",
+        "MenuTitle": "sharedassets24.assets",
+        "Trail": "sharedassets15.assets",
+        "Platform": "sharedassets3.assets"
+    },
+    "1.6.0": {
+        "Saber": "sharedassets18.assets",
+        "Note": "sharedassets19.assets",
+        "MenuTitle": "sharedassets23.assets",
+        "Trail": "sharedassets18.assets",
+        "Platform": "sharedassets3.assets"
+    },
+    "1.6.1": {
+        "Saber": "sharedassets18.assets",
+        "Note": "sharedassets19.assets",
+        "MenuTitle": "sharedassets23.assets",
+        "Trail": "sharedassets18.assets",
+        "Platform": "sharedassets3.assets"
+    },
+    "1.6.2": {
+        "Saber": "sharedassets18.assets",
+        "Note": "sharedassets19.assets",
+        "MenuTitle": "sharedassets23.assets",
+        "Trail": "sharedassets18.assets",
+        "Platform": "sharedassets3.assets"
+    },
+    "1.6.3": {
+        "Saber": "sharedassets18.assets",
+        "Note": "sharedassets19.assets",
+        "MenuTitle": "sharedassets23.assets",
+        "Trail": "sharedassets18.assets",
+        "Platform": "sharedassets3.assets"
+    },
+    "1.7.0": {
+        "Saber": "sharedassets18.assets",
+        "Note": "sharedassets19.assets",
+        "MenuTitle": "sharedassets23.assets",
+        "Trail": "sharedassets18.assets",
+        "Platform": "sharedassets3.assets"
+    }
+}
