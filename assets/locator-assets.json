@@ -40,5 +40,12 @@
         "MenuTitle": "sharedassets23.assets",
         "Trail": "sharedassets18.assets",
         "Platform": "sharedassets3.assets"
+    },
+    "1.8.0": {
+        "Saber": "sharedassets19.assets",
+        "Note": "sharedassets20.assets",
+        "MenuTitle": "sharedassets24.assets",
+        "Trail": "sharedassets19.assets",
+        "Platform": "sharedassets4.assets"
     }
 }
