@@ -46,6 +46,17 @@
         "Note": "sharedassets20.assets",
         "MenuTitle": "sharedassets24.assets",
         "Trail": "sharedassets19.assets",
-        "Platform": "sharedassets4.assets"
+        "Platform": "sharedassets4.assets",
+        "MenuSound": "sharedassets2.assets",
+        "ClearSound": "sharedassets29.assets"
+    },
+    "1.9.0": {
+        "Saber": "sharedassets20.assets",
+        "Note": "sharedassets21.assets",
+        "MenuTitle": "sharedassets25.assets",
+        "Trail": "sharedassets20.assets",
+        "Platform": "sharedassets4.assets",
+        "MenuSound": "sharedassets2.assets",
+        "ClearSound": "sharedassets30.assets"
     }
 }
