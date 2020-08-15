@@ -1,0 +1,17 @@
+{
+    "copyExtensions": {
+        "qsaber": "/sdcard/Android/data/com.beatgames.beatsaber/files/sabers",
+        "qbloq": "/sdcard/Android/data/com.beatgames.beatsaber/files/notes",
+        "qplatform": "/sdcard/Android/data/com.beatgames.beatsaber/files/platforms",
+        "qwall": "/sdcard/Android/data/com.beatgames.beatsaber/files/walls",
+        "qbanner": "/sdcard/Android/data/com.beatgames.beatsaber/files/banners"
+    },
+    "playlistExtensions": [
+        "bplist",
+        "json"
+    ],
+    "configExtensions": [
+        "json",
+        "yml"
+    ]
+}
