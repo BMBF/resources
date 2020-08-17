@@ -67,7 +67,18 @@
         "DumbThingz",
         "WhileWereYoung",
         "WhatILike",
-        "Famous"
+        "Famous",
+        "BleedItOut",
+        "BreakingTheHabit",
+        "Faint",
+        "GivenUp",
+        "InTheEnd",
+        "InTheEnd",
+        "Numb",
+        "OneStepCloser",
+        "Papercut",
+        "SomewhereIBelong",
+        "WhatIveDone"
     ],
     "knownLevelPackIds": [
         "OstVol1",
@@ -79,6 +90,7 @@
         "PanicAtTheDisco",
         "RocketLeague",
         "GreenDay",
-        "Camellia"
+        "Camellia",
+        "LinkinPark"
     ]
 }
