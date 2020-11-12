@@ -112,5 +112,14 @@
         "Platform": "sharedassets3.assets",
         "MenuSound": "sharedassets2.assets",
         "ClearSound": "sharedassets32.assets"
+    },
+    "1.13.0": {
+        "Saber": "sharedassets24.assets",
+        "Note": "sharedassets24.assets",
+        "MenuTitle": "sharedassets2.assets",
+        "Trail": "sharedassets24.assets",
+        "Platform": "sharedassets3.assets",
+        "MenuSound": "sharedassets2.assets",
+        "ClearSound": "sharedassets33.assets"
     }
 }
