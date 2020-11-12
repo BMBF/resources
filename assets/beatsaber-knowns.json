@@ -77,7 +77,19 @@
         "OneStepCloser",
         "Papercut",
         "SomewhereIBelong",
-        "WhatIveDone"
+        "WhatIveDone",
+        "BloodSweatAndTears",
+	    "BoyWithLuv",
+	    "BurningUp",
+	    "Dionysus",
+	    "Dna",
+	    "Dope",
+	    "Dynamite",
+	    "FakeLove",
+	    "Idol",
+	    "MicDrop",
+	    "NotToday",
+	    "Ugh"
     ],
     "knownLevelPackIds": [
         "OstVol1",
@@ -91,6 +103,7 @@
         "GreenDay",
         "Camellia",
         "Camellia Music Pack",
-        "LinkinPark"
+        "LinkinPark",
+        "BTS"
     ]
 }
