@@ -1,6 +1,12 @@
 {
     "1.13.0": {
-        "lastUpdated": "2020-11-12T18:32:51.6227946Z",
-        "mods": []
+        "lastUpdated": "2020-11-13T22:44:51.6227946Z",
+        "mods": [
+            {
+                "id": "Codegen",
+                "version": "0.4.0",
+                "downloadLink": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.4.0/codegen_v0.4.0.zip"
+            }
+        ]
     }
 }
