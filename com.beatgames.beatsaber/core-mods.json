@@ -1,6 +1,6 @@
 {
     "1.13.0": {
-        "lastUpdated": "2020-11-17T19:18:09.962Z",
+        "lastUpdated": "2020-11-21T22:04:10.2928323Z",
         "mods": [
             {
                 "id": "Codegen",
@@ -11,6 +11,11 @@
                 "id": "PinkCore",
                 "version": "1.3.1",
                 "downloadLink": "https://github.com/BSMGPink/PinkUtils/releases/download/1.3.1/PinkCorev1.3.1.zip"
+            },
+            {
+                "id": "goodbyebug",
+                "version": "0.1.3",
+                "downloadLink": "https://github.com/Rugtveit/GoodbyeBug/releases/download/0.1.3/GoodbyeBug.zip"
             }
         ]
     }
