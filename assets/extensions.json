@@ -1,10 +1,10 @@
 {
     "copyExtensions": {
-        "qsaber": "/sdcard/Android/data/com.beatgames.beatsaber/files/sabers",
-        "qbloq": "/sdcard/Android/data/com.beatgames.beatsaber/files/notes",
-        "qplatform": "/sdcard/Android/data/com.beatgames.beatsaber/files/platforms",
-        "qwall": "/sdcard/Android/data/com.beatgames.beatsaber/files/walls",
-        "qbanner": "/sdcard/Android/data/com.beatgames.beatsaber/files/banners"
+        "qsaber": "/sdcard/Qosmetics/sabers",
+        "qbloq": "/sdcard/Qosmetics/notes",
+        "qplatform": "/sdcard/Qosmetics/platforms",
+        "qwall": "/sdcard/Qosmetics/walls",
+        "qbanner": "/sdcard/Qosmetics/banners"
     },
     "playlistExtensions": [
         "bplist",
