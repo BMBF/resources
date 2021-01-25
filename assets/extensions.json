@@ -4,7 +4,8 @@
         "qbloq": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/notes",
         "qplatform": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/platforms",
         "qwall": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/walls",
-        "qbanner": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/banners"
+        "qbanner": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Qosmetics/banners",
+        "qeffect": "/sdcard/ModData/com.beatgames.beatsaber/Mods/Weather/Effects"
     },
     "playlistExtensions": [
         "bplist",
