@@ -13,5 +13,35 @@
                 "downloadLink": "https://github.com/Rugtveit/GoodbyeBug/releases/download/0.1.3/GoodbyeBug.zip"
             }
         ]
+    },
+    "1.13.2": {
+        "lastUpdated": "2021-1-27T04:53:12.8753424Z",
+        "mods": [
+            {
+                "id": "CustomTypes",
+                "version": "0.4.4",
+                "downloadLink": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.4.4/CustomTypes_v0.4.4.zip"
+            },
+            {
+                "id": "Codegen",
+                "version": "0.6.2",
+                "downloadLink": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.6.2/Codegen_v0.6.2.zip"
+            },
+            {
+                "id": "questui",
+                "version": "0.4.3",
+                "downloadLink": "https://github.com/darknight1050/questui/releases/download/v0.4.3/questui.zip"
+            },
+            {
+                "id": "PinkCore",
+                "version": "1.4.0",
+                "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/1.4.0/PinkCoreV1.4.0.zip"
+            },
+            {
+                "id": "goodbyebug",
+                "version": "0.1.4",
+                "downloadLink": "https://github.com/Rugtveit/GoodbyeBug/releases/download/0.1.4/GoodbyeBug.zip"
+            }
+        ]
     }
 }
