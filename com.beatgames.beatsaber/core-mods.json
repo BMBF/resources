@@ -15,7 +15,7 @@
         ]
     },
     "1.13.2": {
-        "lastUpdated": "2021-1-27T04:53:12.8753424Z",
+        "lastUpdated": "2021-2-2T04:43:19.87128734Z",
         "mods": [
             {
                 "id": "CustomTypes",
@@ -34,8 +34,8 @@
             },
             {
                 "id": "PinkCore",
-                "version": "1.4.0",
-                "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/1.4.0/PinkCoreV1.4.0.zip"
+                "version": "1.4.1",
+                "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/1.4.1/PinkCoreV1.4.1.zip"
             },
             {
                 "id": "goodbyebug",
