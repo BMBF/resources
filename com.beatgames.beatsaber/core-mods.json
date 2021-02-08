@@ -15,7 +15,7 @@
         ]
     },
     "1.13.2": {
-        "lastUpdated": "2021-2-2T04:43:19.87128734Z",
+        "lastUpdated": "2021-2-8T19:59:19.87128734Z",
         "mods": [
             {
                 "id": "CustomTypes",
@@ -29,8 +29,8 @@
             },
             {
                 "id": "questui",
-                "version": "0.4.3",
-                "downloadLink": "https://github.com/darknight1050/questui/releases/download/v0.4.3/questui.zip"
+                "version": "0.4.4",
+                "downloadLink": "https://github.com/darknight1050/questui/releases/download/v0.4.4/questui.zip"
             },
             {
                 "id": "PinkCore",
