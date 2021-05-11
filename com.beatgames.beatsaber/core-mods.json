@@ -60,5 +60,22 @@
                 "filename": "Codegen_v0.7.0.qmod"
             }
         ]
+    },
+    "1.15.0": {
+        "lastUpdated": "2021-5-11T08:04:11.83112314Z",
+        "mods": [
+            {
+                "id": "custom-types",
+                "version": "0.8.3",
+                "downloadLink": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.8.3/custom-types_v0.8.3.qmod",
+                "filename": "custom-types_v0.8.3.qmod"
+            },
+            {
+                "id": "codegen",
+                "version": "0.8.1",
+                "downloadLink": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.8.1/codegen_0_8_1.qmod",
+                "filename": "codegen_0_8_1.qmod"
+            }
+        ]
     }
 }
