@@ -96,12 +96,24 @@
         "FullCharge",
         "Immortal",
         "BurningSands",
-        "FitBeat"
+        "FitBeat",
+        "Into The Dream",
+        "It Takes Me",
+        "LUDICROUS+",
+        "Spin Eternally",
+        "DNA",
+        "Party Rock Anthem",
+        "Counting Stars",
+        "Don’t Cha",
+        "Rollin’",
+        "Sugar",
+        "The Sweet Escape",
     ],
     "knownLevelPackIds": [
         "OstVol1",
         "OstVol2",
         "OstVol3",
+        "OstVol4",
         "Extras",
         "Monstercat",
         "ImagineDragons",
@@ -111,6 +123,7 @@
         "Camellia",
         "Camellia Music Pack",
         "LinkinPark",
-        "BTS"
+        "BTS",
+        "InterscopeMixtape"
     ]
 }
