@@ -156,7 +156,7 @@
         "Platform": "sharedassets4.assets",
         "MenuSound": "sharedassets4.assets",
         "ClearSound": "sharedassets35.assets",
-        "Reflections": "sharedassets1.assets"
+        "PlatformReflections": "sharedassets1.assets"
      },   
      "1.16.1": {
         "Saber": "sharedassets24.assets",
@@ -166,7 +166,7 @@
         "Platform": "sharedassets4.assets",
         "MenuSound": "sharedassets4.assets",
         "ClearSound": "sharedassets35.assets",
-        "Reflections": "sharedassets1.assets"
+        "PlatformReflections": "sharedassets1.assets"
               },   
      "1.16.2": {
         "Saber": "sharedassets24.assets",
@@ -176,6 +176,6 @@
         "Platform": "sharedassets4.assets",
         "MenuSound": "sharedassets4.assets",
         "ClearSound": "sharedassets35.assets",
-        "Reflections": "sharedassets2.assets"
+        "PlatformReflections": "sharedassets2.assets"
     }
 }
