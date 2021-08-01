@@ -110,6 +110,12 @@
                 "version": "0.10.1",
                 "downloadLink": "https://github.com/darknight1050/questui/releases/download/v0.10.1/questui.qmod",
                 "filename": "questui_v0_10_1.qmod"
+            },
+            {
+                "id": "songdownloader",
+                "version": "0.1.0",
+                "downloadLink": "https://github.com/darknight1050/SongDownloader/releases/download/v0.1.0/songdownloader.qmod",
+                "filename": "songdownload_v0_1_0.qmod"
             }
         ]
     }
