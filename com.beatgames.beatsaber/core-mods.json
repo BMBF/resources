@@ -95,9 +95,9 @@
             },
             {
                 "id": "songloader",
-                "version": "0.6.2",
-                "downloadLink": "https://github.com/darknight1050/SongLoader/releases/download/v0.6.2/songloader.qmod",
-                "filename": "songloader_v0_6_2.qmod"
+                "version": "0.6.3",
+                "downloadLink": "https://github.com/darknight1050/SongLoader/releases/download/v0.6.3/songloader.qmod",
+                "filename": "songloader_v0_6_3.qmod"
             },
             {
                 "id": "playlistmanager",
