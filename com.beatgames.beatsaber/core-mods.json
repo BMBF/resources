@@ -95,9 +95,9 @@
             },
             {
                 "id": "songloader",
-                "version": "0.6.1",
+                "version": "0.6.2",
                 "downloadLink": "https://github.com/darknight1050/SongLoader/releases/download/v0.6.1/songloader.qmod",
-                "filename": "songloader_v0_6_1.qmod"
+                "filename": "songloader_v0_6_2.qmod"
             },
             {
                 "id": "playlistmanager",
@@ -107,9 +107,9 @@
             },
             {
                 "id": "questui",
-                "version": "0.10.1",
+                "version": "0.10.2",
                 "downloadLink": "https://github.com/darknight1050/questui/releases/download/v0.10.1/questui.qmod",
-                "filename": "questui_v0_10_1.qmod"
+                "filename": "questui_v0_10_2.qmod"
             },
             {
                 "id": "songdownloader",
