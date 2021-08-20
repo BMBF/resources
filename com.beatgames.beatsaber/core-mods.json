@@ -119,9 +119,9 @@
             },
             {
                 "id": "pinkcore",
-                "version": "1.5.3",
-                "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/v1.5.3/PinkCore.qmod",
-                "filename": "PinkCore_v1_5_3.qmod"
+                "version": "1.5.4",
+                "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/v1.5.4/PinkCore.qmod",
+                "filename": "PinkCore_v1_5_4.qmod"
             }
         ]
     }
