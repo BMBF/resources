@@ -124,5 +124,46 @@
                 "filename": "PinkCore_v1_5_4.qmod"
             }
         ]
+    },
+    "1.17.0": {
+        "lastUpdated": "2021-9-3T17:39:08.85132314Z",
+        "mods": [
+            {
+                "id": "custom-types",
+                "version": "0.12.7",
+                "downloadLink": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.12.7/custom-types_v0_12_7.qmod",
+                "filename": "custom-types_v0_12_7.qmod"
+            },
+            {
+                "id": "codegen",
+                "version": "0.13.0",
+                "downloadLink": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.13.0/codegen_0_13_0.qmod",
+                "filename": "codegen_0_13_0.qmod"
+            },
+            {
+                "id": "songloader",
+                "version": "0.7.0",
+                "downloadLink": "https://github.com/darknight1050/SongLoader/releases/download/v0.7.0/songloader.qmod",
+                "filename": "songloader_v0_7_0.qmod"
+            },
+            {
+                "id": "playlistmanager",
+                "version": "0.1.3",
+                "downloadLink": "https://github.com/darknight1050/PlaylistManager/releases/download/v0.1.3/playlistmanager.qmod",
+                "filename": "playlistmanager_v0_1_3.qmod"
+            },
+            {
+                "id": "questui",
+                "version": "0.11.0",
+                "downloadLink": "https://github.com/darknight1050/questui/releases/download/v0.11.0/questui.qmod",
+                "filename": "questui_v0_11_0.qmod"
+            },
+            {
+                "id": "songdownloader",
+                "version": "0.3.1",
+                "downloadLink": "https://github.com/darknight1050/SongDownloader/releases/download/v0.3.1/songdownloader.qmod",
+                "filename": "songdownloader_v0_3_1.qmod"
+            }
+        ]
     }
 }
