@@ -163,6 +163,12 @@
                 "version": "0.3.1",
                 "downloadLink": "https://github.com/darknight1050/SongDownloader/releases/download/v0.3.1/songdownloader.qmod",
                 "filename": "songdownloader_v0_3_1.qmod"
+            },
+            {
+                "id": "pinkcore",
+                "version": "1.6.0",
+                "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/v1.6.0/PinkCore.qmod",
+                "filename": "PinkCore_v1_6_0.qmod"
             }
         ]
     }
