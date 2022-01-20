@@ -1,0 +1,8 @@
+{
+    "version": "1.2.3",
+
+    "modLoader32": "https://github.com/sc2ad/QuestLoader/releases/download/v1.2.3/libmodloader32.so",
+    "modLoader64": "https://github.com/sc2ad/QuestLoader/releases/download/v1.2.3/libmodloader64.so",
+    "main32": "https://github.com/sc2ad/QuestLoader/releases/download/v1.2.3/libmain32.so",
+    "main64": "https://github.com/sc2ad/QuestLoader/releases/download/v1.2.3/libmain64.so"
+}
