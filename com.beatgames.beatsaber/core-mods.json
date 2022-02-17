@@ -218,5 +218,52 @@
                 "filename": "PinkCore_v1_6_3.qmod"
             }
         ]
+    },
+    "1.19.0": {
+        "lastUpdated": "2022-02-17T01:04:19Z",
+        "mods": [
+            {
+                "id": "custom-types",
+                "version": "0.15.6",
+                "downloadLink": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.15.6/CustomTypes.qmod",
+                "filename": "CustomTypes.qmod"
+            },
+            {
+                "id": "codegen",
+                "version": "0.19.3",
+                "downloadLink": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.19.3/Codegen.qmod",
+                "filename": "codegen_0_19_3.qmod"
+            },
+            {
+                "id": "songloader",
+                "version": "0.8.3",
+                "downloadLink": "https://github.com/darknight1050/SongLoader/releases/download/v0.8.3/SongLoader.qmod",
+                "filename": "songloader.qmod"
+            },
+            {
+                "id": "playlistmanager",
+                "version": "0.2.0",
+                "downloadLink": "https://github.com/darknight1050/PlaylistManager/releases/download/v0.2.0/PlaylistManager.qmod",
+                "filename": "playlistmanager_v0_2_0.qmod"
+            },
+            {
+                "id": "questui",
+                "version": "0.13.1",
+                "downloadLink": "https://github.com/darknight1050/questui/releases/download/v0.13.1/QuestUI.qmod",
+                "filename": "questui_v0_13_1.qmod"
+            },
+            {
+                "id": "songdownloader",
+                "version": "0.4.0",
+                "downloadLink": "https://github.com/darknight1050/SongDownloader/releases/download/v0.4.0/SongDownloader.qmod",
+                "filename": "songdownloader_v0_4_0.qmod"
+            },
+            {
+                "id": "pinkcore",
+                "version": "1.6.4",
+                "downloadLink": "https://github.com/BSMGPink/PinkCore/releases/download/v1.6.4/PinkCore.qmod",
+                "filename": "PinkCore_v1_6_4.qmod"
+            }
+        ]
     }
 }
