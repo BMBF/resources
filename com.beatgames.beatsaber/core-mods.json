@@ -177,7 +177,7 @@
         "mods": [
             {
                 "id": "custom-types",
-                "version": "0.12.7",
+                "version": "0.12.8",
                 "downloadLink": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.12.8/custom-types_v0_12_8.qmod",
                 "filename": "custom-types_v0_12_8.qmod"
             },
