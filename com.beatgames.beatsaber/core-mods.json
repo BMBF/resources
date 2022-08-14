@@ -475,6 +475,12 @@
                 "version": "1.1.0",
                 "downloadLink": "https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/download/1.1.0/MultiplayerCore1.1.0.qmod",
                 "filename": "MultiplayerCore_v1_1_0.qmod"
+            },
+            {
+                "id": "mod-list",
+                "version": "0.1.5",
+                "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.5/mod-list_v0.1.5.qmod",
+                "filename": "mod-list_v0.1.5.qmod"
             }
         ]
     }
