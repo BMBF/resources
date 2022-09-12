@@ -120,6 +120,62 @@
         "Trail": "sharedassets24.assets",
         "Platform": "sharedassets3.assets",
         "MenuSound": "sharedassets2.assets",
+    },  "ClearSound": "sharedassets33.assets"
+    "1.13.2": {
+        "Saber": "sharedassets24.assets",
+        "Note": "sharedassets24.assets",
+        "MenuTitle": "sharedassets2.assets",
+        "Trail": "sharedassets24.assets",
+        "Platform": "sharedassets3.assets",
+        "MenuSound": "sharedassets2.assets",
         "ClearSound": "sharedassets33.assets"
+    },   
+     "1.14.0": {
+        "Saber": "sharedassets24.assets",
+        "Note": "sharedassets24.assets",
+        "MenuTitle": "sharedassets2assets",
+        "Trail": "sharedassets24.assets",
+        "Platform": "sharedassets3.assets",
+        "MenuSound": "sharedassets2.assets",
+        "ClearSound": "sharedassets34.assets"
+     },   
+     "1.15.0": {
+        "Saber": "sharedassets24.assets",
+        "Note": "sharedassets24.assets",
+        "MenuTitle": "sharedassets3.ets",
+        "Trail": "sharedassets24.assets",
+        "Platform": "sharedassets4.assets",
+        "MenuSound": "sharedassets3.assets",
+        "ClearSound": "sharedassets35.assets"
+     },   
+     "1.16.0": {
+        "Saber": "sharedassets24.assets",
+        "Note": "sharedassets25.assets",
+        "MenuTitle": "sharedassets4.assets",
+        "Trail": "sharedassets25.assets",
+        "Platform": "sharedassets4.assets",
+        "MenuSound": "sharedassets4.assets",
+        "ClearSound": "sharedassets35.assets",
+        "PlatformReflections": "sharedassets1.assets"
+     },   
+     "1.16.1": {
+        "Saber": "sharedassets24.assets",
+        "Note": "sharedassets25.assets",
+        "MenuTitle": "sharedassets4.assets",
+        "Trail": "sharedassets25.assets",
+        "Platform": "sharedassets4.assets",
+        "MenuSound": "sharedassets4.assets",
+        "ClearSound": "sharedassets35.assets",
+        "PlatformReflections": "sharedassets1.assets"
+     },   
+     "1.16.2": {
+        "Saber": "sharedassets24.assets",
+        "Note": "sharedassets25.assets",
+        "MenuTitle": "sharedassets4.assets",
+        "Trail": "sharedassets25.assets",
+        "Platform": "sharedassets4.assets",
+        "MenuSound": "sharedassets4.assets",
+        "ClearSound": "sharedassets35.assets",
+        "PlatformReflections": "sharedassets2.assets"
     }
 }
