@@ -480,7 +480,84 @@
                 "id": "mod-list",
                 "version": "0.1.5",
                 "downloadLink": "https://github.com/Lauriethefish/ModList/releases/download/0.1.5/mod-list_v0.1.5.qmod",
-                "filename": "mod-list_v0.1.5.qmod"
+                "filename": "mod-list_v0_1_5.qmod"
+            }
+        ]
+    },
+	"1.28.0": {
+        "lastUpdated": "2023-06-26T21:00:00Z",
+        "mods": [
+            {
+                "id": "custom-types",
+                "version": "0.15.24",
+                "downloadLink": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.15.24/CustomTypes.qmod",
+                "filename": "custom-types_v0_15_24.qmod"
+            },
+            {
+                "id": "codegen",
+                "version": "0.33.0",
+                "downloadLink": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.33.0/Codegen.qmod",
+                "filename": "codegen_v0_33_0.qmod"
+            },
+            {
+                "id": "songloader",
+                "version": "0.10.15",
+                "downloadLink": "https://github.com/darknight1050/SongLoader/releases/download/v0.10.15/SongLoader.qmod",
+                "filename": "songloader_v0_10_15.qmod"
+            },
+            {
+                "id": "playlistcore",
+                "version": "1.1.6",
+                "downloadLink": "https://github.com/Metalit/PlaylistCore/releases/download/1.1.6/PlaylistCore.qmod",
+                "filename": "playlistcore_v1_1_6.qmod"
+            },
+            {
+                "id": "playlistmanager",
+                "version": "1.2.4",
+                "downloadLink": "https://github.com/Metalit/PlaylistManager/releases/download/v1.2.4/PlaylistManager.qmod",
+                "filename": "playlistmanager_v1_2_4.qmod"
+            },
+            {
+                "id": "questui",
+                "version": "0.17.12",
+                "downloadLink": "https://github.com/darknight1050/QuestUI/releases/download/v0.17.12/QuestUI.qmod",
+                "filename": "questui_v0_17_12.qmod"
+            },
+            {
+                "id": "songdownloader",
+                "version": "0.5.6",
+                "downloadLink": "https://github.com/darknight1050/SongDownloader/releases/download/v0.5.6/SongDownloader.qmod",
+                "filename": "songdownloader_v0_5_6.qmod"
+            },
+            {
+                "id": "pinkcore",
+                "version": "1.8.10",
+                "downloadLink": "https://github.com/ModdingPink/PinkCore/releases/download/v1.8.10/PinkCore.qmod",
+                "filename": "PinkCore_v1_8_10.qmod"
+            },
+            {
+                "id": "datakeeper",
+                "version": "0.1.7",
+                "downloadLink": "https://github.com/Metalit/PlayerDataKeeper/releases/download/v0.1.7/PlayerDataKeeper.qmod",
+                "filename": "PlayerDataKeeper_v0_1_7.qmod"
+            },
+            {
+                "id": "BeatTogether",
+                "version": "1.8.0",
+                "downloadLink": "https://github.com/BeatTogether/BeatTogether.Quest/releases/download/v1.8.0/BeatTogether_v1.8.0.qmod",
+                "filename": "BeatTogether_v1_8_0.qmod"
+            },
+            {
+                "id": "MultiplayerCore",
+                "version": "1.4.0",
+                "downloadLink": "https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/download/1.4.0/MultiplayerCore_1.4.0.qmod",
+                "filename": "MultiplayerCore_1_4_0.qmod"
+            },
+            {
+                "id": "mod-list",
+                "version": "0.1.11",
+                "downloadLink": "hhttps://github.com/Lauriethefish/ModList/releases/download/v0.1.11/ModList.qmod",
+                "filename": "mod-list_v0_1_11.qmod"
             }
         ]
     }
